@@ -1,6 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
+  id: ubcgif-2023-heagy-oldenburg-gji
   title: Impacts of magnetic permeability on electromagnetic data collected in settings with steel-cased wells
   authors:
     - name: Lindsey J. Heagy
