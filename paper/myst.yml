@@ -36,6 +36,8 @@ project:
     CSEM: controlled source electromagnetics
     EM: electromagnetics
   thumbnail: thumbnail.png
+  numbering:
+    headings: true
 site:
   template: article-theme
   actions:
