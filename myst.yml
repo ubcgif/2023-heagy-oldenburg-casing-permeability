@@ -1,0 +1,43 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Impacts of magnetic permeability on electromagnetic data collected in settings with steel-cased wells
+  authors:
+    - name: Lindsey J. Heagy
+      email: lheagy@eoas.ubc.ca
+      corresponding: true
+      orcid: 0000-0002-1551-5926
+      affiliation:
+        id: ubc
+        name: Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, British Columbia
+    - name: Douglas W. Oldenburg
+      affiliation: ubc
+      email: doug@eos.ubc.ca
+      orcid: 0000-0002-4327-2124
+  doi: 10.1093/gji/ggad122
+  github: https://github.com/simpeg-research/heagy-oldenburg-2023-casing-permeability
+  date: 2023/03/23
+  venue:
+    title: Geophysical Journal International
+    url: https://academic.oup.com/gji/article/234/2/1092/7084984
+  history:
+    received: 2023/03/12
+    accepted: 2023/03/17
+    published: 2023/03/23
+  keywords:
+    - Electrical properties
+    - Magnetic properties
+    - Controlled source electromagnetics (CSEM)
+    - Electromagnetic theory
+    - Numerical modelling
+    - Downhole methods
+  abbreviations:
+    CSEM: controlled source electromagnetics
+    EM: electromagnetics
+  thumbnail: thumbnail.png
+site:
+  template: article-theme
+  actions:
+    - title: pdf
+      url: Heagy-Oldenburg-2023-Impacts-of-magnetic-permeability.pdf
+      static: true
