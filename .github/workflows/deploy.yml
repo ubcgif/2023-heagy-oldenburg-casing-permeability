@@ -15,7 +15,7 @@ jobs:
       preview-label: paper
       submit-label: true
       venue: ubcgif
-      collection: presentations
+      collection: publications
       kind: article
       path: .
     secrets:
