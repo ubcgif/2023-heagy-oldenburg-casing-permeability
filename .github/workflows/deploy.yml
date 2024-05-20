@@ -12,12 +12,12 @@ jobs:
       monorepo: false
       id-pattern-regex: '^ubcgif-(?:[a-zA-Z0-9-_]{3,40})$'
       enforce-single-folder: false
-      preview-label: paper
+      preview-label: true
       submit-label: true
-      venue: ubcgif
-      collection: presentations
+      venue: appliedgeophysics
+      collection: publications
       kind: article
-      path: .
+      path: paper
     secrets:
       CURVENOTE: ${{ secrets.CURVENOTE_TOKEN }}
       GITHUB: ${{ secrets.GITHUB_TOKEN }}
