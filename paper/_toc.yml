@@ -1,3 +1,4 @@
 format: jb-book
 root: casingEMpaper.tex
-chapters: []
+chapters:
+  - file: Appendix.tex
